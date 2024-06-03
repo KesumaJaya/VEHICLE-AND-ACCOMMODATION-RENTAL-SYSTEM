@@ -1,0 +1,54 @@
+ =============================================================
+ REPORT
+ =============================================================
+
+ RENTING CHARGES LIST
+ =============================================================
+ CUSTOMER IC NUMBER	RENTED MODEL		TOTAL PAYMENT 
+ =============================================================
+  970103-06-4858 	Perodua Axia		 RM 7.49
+  980205-05-4834 	Honda City		 RM 321.00
+  990307-04-3424 	Perodua Axia		 RM 22.47
+  000409-03-2266 	Honda City		 RM 160.50
+  010511-02-4114 	Perodua Axia		 RM 14.98
+  020613-01-9242 	Honda City		 RM 481.50
+  030802-10-4706 	Perodua Alza		 RM 26.75
+  980904-11-4608 	Honda Odyssey		 RM 642.00
+  001006-09-4166 	Perodua Alza		 RM 80.25
+  040730-01-0435 	Nissan NV200		 RM 342.40
+  971108-08-1093 	Nissan NV200		 RM 57.78
+  021210-07-1687 	Nissan NV200		 RM 1027.20
+  040102-03-2813 	Hino 300 Series		 RM 620.60
+  000204-13-7529 	Hino 500 Series		 RM 1968.80
+  990306-11-5357 	Hino 300 Series		 RM 1861.80
+  020610-16-1788 	Hino 500 Series		 RM 984.40
+  970430-10-0404 	Hino 300 Series		 RM 1241.20
+  030508-15-7058 	Hino 500 Series		 RM 3937.60
+  990617-07-1412 	Single Room		 RM 128.40
+  000721-01-5328 	Double Room		 RM 513.60
+  970829-15-4316 	Deluxe Room		 RM 1059.30
+  010913-06-9794 	Single Room		 RM 513.60
+  041011-03-0068 	Double Room		 RM 1284.00
+  001209-10-5263 	Single Room		 RM 770.40
+  040117-02-0392 	Apartment		 RM 577.80
+  030221-04-7702 	Homestay		 RM 770.40
+  020329-11-6886 	Homestay		 RM 770.40
+  010413-07-5763 	Apartment		 RM 577.80
+  001051-09-0903 	Apartment		 RM 577.80
+  990609-15-0377 	Homestay		 RM 770.40
+ =============================================================
+
+ RENTAL CHARGES SUMMARY
+ Average renting charge : RM737.09
+ Highest renting charge : RM3937.60
+ Lowest renting charge  : RM7.49
+
+
+
+ TOTAL INCOME FOR EACH COMPANY FROM HIGHEST TO LOWEST 
+
+ BigWheels  : RM10614.40
+ RoomHive   : RM4269.30
+ CozyStays  : RM4044.60
+ CarrierGo  : RM2176.38
+ SwiftDrive : RM1007.94

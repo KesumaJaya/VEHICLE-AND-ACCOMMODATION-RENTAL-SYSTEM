@@ -1,0 +1,333 @@
+======================================================
+Customers' Receipt
+======================================================
+Company      : SwiftDrive,Johor,074136928
+ 
+Renter Name  : Aina Nadhirah
+Phone Number : 60137835801
+IC Number    : 970103-06-4858
+Vehicle      : Perodua Axia
+Duration     : 1 Hour
+Rental Price : RM7.49
+Bank Name    : Maybank
+Bank ID      : 335941550
+--------------------------------------------------
+Company      : SwiftDrive,Johor,074136928
+ 
+Renter Name  : Amni Nabilah
+Phone Number : 601133152225
+IC Number    : 980205-05-4834
+Vehicle      : Honda City
+Duration     : 2 Day
+Rental Price : RM321.00
+Bank Name    : CIMB Bank
+Bank ID      : 665668971
+--------------------------------------------------
+Company      : SwiftDrive,Johor,074136928
+ 
+Renter Name  : Amyleen Aishah
+Phone Number : 601621584321
+IC Number    : 990307-04-3424
+Vehicle      : Perodua Axia
+Duration     : 3 Hour
+Rental Price : RM22.47
+Bank Name    : RHB Bank
+Bank ID      : 509348237
+--------------------------------------------------
+Company      : SwiftDrive,Johor,074136928
+ 
+Renter Name  : Auni Izzaty
+Phone Number : 60197836325
+IC Number    : 000409-03-2266
+Vehicle      : Honda City
+Duration     : 1 Day
+Rental Price : RM160.50
+Bank Name    : Bank Rakyat
+Bank ID      : 808799511
+--------------------------------------------------
+Company      : SwiftDrive,Johor,074136928
+ 
+Renter Name  : Batrisyia Afrina
+Phone Number : 601277050123
+IC Number    : 010511-02-4114
+Vehicle      : Perodua Axia
+Duration     : 2 Hour
+Rental Price : RM14.98
+Bank Name    : Bank Islam
+Bank ID      : 107519602
+--------------------------------------------------
+Company      : SwiftDrive,Johor,074136928
+ 
+Renter Name  : Farah Ezliana
+Phone Number : 60103759601
+IC Number    : 020613-01-9242
+Vehicle      : Honda City
+Duration     : 3 Day
+Rental Price : RM481.50
+Bank Name    : Hong Leong Bank
+Bank ID      : 205700797
+--------------------------------------------------
+Company      : CarrierGo,Melaka,069546743
+ 
+Renter Name  : Hawa Aqiera
+Phone Number : 60191596127
+IC Number    : 030802-10-4706
+Vehicle      : Perodua Alza
+Duration     : 1 Hour
+Rental Price : RM26.75
+Bank Name    : Bank Simpanan Nasional
+Bank ID      : 164002634
+--------------------------------------------------
+Company      : CarrierGo,Melaka,069546743
+ 
+Renter Name  : Irdina Syafiah
+Phone Number : 60145896662
+IC Number    : 980904-11-4608
+Vehicle      : Honda Odyssey
+Duration     : 2 Day
+Rental Price : RM642.00
+Bank Name    : UOB Bank
+Bank ID      : 033618676
+--------------------------------------------------
+Company      : CarrierGo,Melaka,069546743
+ 
+Renter Name  : Maizatul Sofea
+Phone Number : 60196061000
+IC Number    : 001006-09-4166
+Vehicle      : Perodua Alza
+Duration     : 3 Hour
+Rental Price : RM80.25
+Bank Name    : Ambank
+Bank ID      : 500509387
+--------------------------------------------------
+Company      : CarrierGo,Melaka,069546743
+ 
+Renter Name  : Ady Hafetz
+Phone Number : 601161354425
+IC Number    : 040730-01-0435
+Vehicle      : Nissan NV200
+Duration     : 1 Day
+Rental Price : RM342.40
+Bank Name    : HSBC Bank
+Bank ID      : 716062819
+--------------------------------------------------
+Company      : CarrierGo,Melaka,069546743
+ 
+Renter Name  : Kesuma Jaya
+Phone Number : 60174246064
+IC Number    : 971108-08-1093
+Vehicle      : Nissan NV200
+Duration     : 2 Hour
+Rental Price : RM57.78
+Bank Name    : Affin Bank
+Bank ID      : 657071398
+--------------------------------------------------
+Company      : CarrierGo,Melaka,069546743
+ 
+Renter Name  : Amir Asyraf
+Phone Number : 60190692741
+IC Number    : 021210-07-1687
+Vehicle      : Nissan NV200
+Duration     : 3 Day
+Rental Price : RM1027.20
+Bank Name    : Public Bank
+Bank ID      : 505218036
+--------------------------------------------------
+Company      : BigWheels,Perak,053245678
+ 
+Renter Name  : Amri Izwan
+Phone Number : 601156577866
+IC Number    : 040102-03-2813
+Vehicle      : Hino 300 Series
+Duration     : 1 Day
+Rental Price : RM620.60
+Bank Name    : Alliance Bank
+Bank ID      : 175875646
+--------------------------------------------------
+Company      : BigWheels,Perak,053245678
+ 
+Renter Name  : Muhammad Faqihul
+Phone Number : 0168577444
+IC Number    : 000204-13-7529
+Vehicle      : Hino 500 Series
+Duration     : 2 Day
+Rental Price : RM1968.80
+Bank Name    : MBSB Bank
+Bank ID      : 516847996
+--------------------------------------------------
+Company      : BigWheels,Perak,053245678
+ 
+Renter Name  : Imran Ammar
+Phone Number : 60134314134
+IC Number    : 990306-11-5357
+Vehicle      : Hino 300 Series
+Duration     : 3 Day
+Rental Price : RM1861.80
+Bank Name    : Standard Charted Bank
+Bank ID      : 400110744
+--------------------------------------------------
+Company      : BigWheels,Perak,053245678
+ 
+Renter Name  : Nazlah Nabilah
+Phone Number : 60166413002
+IC Number    : 020610-16-1788
+Vehicle      : Hino 500 Series
+Duration     : 1 Day
+Rental Price : RM984.40
+Bank Name    : Citibank
+Bank ID      : 879663675
+--------------------------------------------------
+Company      : BigWheels,Perak,053245678
+ 
+Renter Name  : Nur Aliah
+Phone Number : 60102301457
+IC Number    : 970430-10-0404
+Vehicle      : Hino 300 Series
+Duration     : 2 Day
+Rental Price : RM1241.20
+Bank Name    : Bank Muamalat
+Bank ID      : 010527420
+--------------------------------------------------
+Company      : BigWheels,Perak,053245678
+ 
+Renter Name  : Izz Damia
+Phone Number : 60148839598
+IC Number    : 030508-15-7058
+Vehicle      : Hino 500 Series
+Duration     : 4 Day
+Rental Price : RM3937.60
+Bank Name    : AgroBank
+Bank ID      : 326540102
+--------------------------------------------------
+Company      : RoomHive,Pahang,093658773
+ 
+Renter Name  : Yasmin Hani
+Phone Number : 60137650586
+IC Number    : 990617-07-1412
+Rental Choose: Single Room
+Duration     : 1 Day
+Rental Price : RM128.40
+Bank Name    : Maybank
+Bank ID      : 444523130
+--------------------------------------------------
+Company      : RoomHive,Pahang,093658773
+ 
+Renter Name  : Nurien Qriestyena
+Phone Number : 60137851753
+IC Number    : 000721-01-5328
+Rental Choose: Double Room
+Duration     : 2 Day
+Rental Price : RM513.60
+Bank Name    : CIMB Bank
+Bank ID      : 409121880
+--------------------------------------------------
+Company      : RoomHive,Pahang,093658773
+ 
+Renter Name  : Julita Najuwa
+Phone Number : 60138568266
+IC Number    : 970829-15-4316
+Rental Choose: Deluxe Room
+Duration     : 3 Day
+Rental Price : RM1059.30
+Bank Name    : RHB Bank
+Bank ID      : 102245512
+--------------------------------------------------
+Company      : RoomHive,Pahang,093658773
+ 
+Renter Name  : Syaima Asyrah
+Phone Number : 60145094136
+IC Number    : 010913-06-9794
+Rental Choose: Single Room
+Duration     : 4 Day
+Rental Price : RM513.60
+Bank Name    : Ambank
+Bank ID      : 601783330
+--------------------------------------------------
+Company      : RoomHive,Pahang,093658773
+ 
+Renter Name  : Nurul Idayu
+Phone Number : 60196924097
+IC Number    : 041011-03-0068
+Rental Choose: Double Room
+Duration     : 5 Day
+Rental Price : RM1284.00
+Bank Name    : Affin Bank
+Bank ID      : 106909702
+--------------------------------------------------
+Company      : RoomHive,Pahang,093658773
+ 
+Renter Name  : Putra Jamalullail
+Phone Number : 60166431533
+IC Number    : 001209-10-5263
+Rental Choose: Single Room
+Duration     : 6 Day
+Rental Price : RM770.40
+Bank Name    : SBank Rakyat
+Bank ID      : 665801606
+--------------------------------------------------
+Company      : CozyStays,Selangor,036298834
+ 
+Renter Name  : Seri Fadila
+Phone Number : 60163748999
+IC Number    : 040117-02-0392
+Rental Choose: Apartment
+Duration     : 1 Day
+Rental Price : RM577.80
+Bank Name    : Bank Simpanan Nasional
+Bank ID      : 112157898
+--------------------------------------------------
+Company      : CozyStays,Selangor,036298834
+ 
+Renter Name  : Siti Nurain
+Phone Number : 60177734615
+IC Number    : 030221-04-7702
+Rental Choose: Homestay
+Duration     : 1 Day
+Rental Price : RM770.40
+Bank Name    : Bank Muamalat
+Bank ID      : 139390944
+--------------------------------------------------
+Company      : CozyStays,Selangor,036298834
+ 
+Renter Name  : Widad Najiha
+Phone Number : 60102910267
+IC Number    : 020329-11-6886
+Rental Choose: Homestay
+Duration     : 1 Day
+Rental Price : RM770.40
+Bank Name    : UOB Bank
+Bank ID      : 944119086
+--------------------------------------------------
+Company      : CozyStays,Selangor,036298834
+ 
+Renter Name  : Amir Syafiq
+Phone Number : 60134025635
+IC Number    : 010413-07-5763
+Rental Choose: Apartment
+Duration     : 1 Day
+Rental Price : RM577.80
+Bank Name    : Public Bank
+Bank ID      : 100255370
+--------------------------------------------------
+Company      : CozyStays,Selangor,036298834
+ 
+Renter Name  : Amir Nafis
+Phone Number : 60132669936
+IC Number    : 001051-09-0903
+Rental Choose: Apartment
+Duration     : 1 Day
+Rental Price : RM577.80
+Bank Name    : Alliance Bank
+Bank ID      : 737639492
+--------------------------------------------------
+Company      : CozyStays,Selangor,036298834
+ 
+Renter Name  : Danish Adam
+Phone Number : 60164670885
+IC Number    : 990609-15-0377
+Rental Choose: Homestay
+Duration     : 1 Day
+Rental Price : RM770.40
+Bank Name    : Hong Leong Bank
+Bank ID      : 648859853
+--------------------------------------------------
